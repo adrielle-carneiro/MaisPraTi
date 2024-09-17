@@ -1,4 +1,4 @@
-Listas, atividades e aplicações feitas para o curso de Fullstack do programa +PraTi!
+**Listas, atividades e aplicações feitas para o curso de Fullstack do programa +PraTi!**
 
 
 Instruções para rodar os exercícios:
